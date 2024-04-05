@@ -1,1 +1,0 @@
-Let's review simple Machine Learning concepts that I know :)
