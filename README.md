@@ -1,6 +1,6 @@
-### Basic machine learning algorithms
+## Basic machine learning algorithms
 
-### In this repo we'll learn some of machine learning algorithms and use it with data.
+## In this repo we'll learn some of machine learning algorithms and use it with data.
 
 Algorithms list :
 
