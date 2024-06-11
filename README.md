@@ -1,7 +1,7 @@
 ## Machine learning algorithms 🤖✨
 
 
-<img src="https://github.com/0nE01/Machine-learning/assets/127254729/348200fa-2ca4-40b8-bcba-568eccd4d398" align = "right" width="450" height="350">
+<img src="https://github.com/0nE01/Machine-learning/assets/127254729/348200fa-2ca4-40b8-bcba-568eccd4d398" align = "right" width="450" height="400">
 
 ###  In the world of machine learning there are lots of algorithms that are cool and amazing. 😎
 
