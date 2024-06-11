@@ -3,13 +3,13 @@
 
 <img src="https://github.com/0nE01/Machine-learning/assets/127254729/348200fa-2ca4-40b8-bcba-568eccd4d398" align = "right" width="450" height="350">
 
-###  In the wrold of machin learning there are lots of algorithms that are cool and amiazing. 
+###  In the world of machine learning there are lots of algorithms that are cool and amazing. 😎
 
-###Those algorithms are so helpful and can solve lot's of our problems.
+### Those algorithms are so helpful and can solve lot's of our problems.
 
-### In this repo we covered few of Machine learning algorithms that you can use them.
+### We'll cover few of Machine learning algorithms.
 
-### You Can learn algorithms related ro :
+### You Can learn algorithms related to :
 
  * Regression 📈
  * Classification ⏺
@@ -44,6 +44,11 @@ Algorithms ⚡
 
 Data 🔥
  -----
- ### You can find datasets in link below
+ ### You can find datasets in link below.
 | [Data](https://github.com/0nE01/Machine-learning/tree/main/Data)|
 | ------------- | 
+
+
+## Spread the word
+
+If you find this repo useful or exciting please give it a star 🎇. This way others can benefit from it 😊❤
